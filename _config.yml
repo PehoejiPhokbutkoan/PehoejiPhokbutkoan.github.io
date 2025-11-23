@@ -1,8 +1,8 @@
-title: 白話字記憶 ▸ PE̍H-ŌE-JĪ KÌ-EK
+title: 白話字博物館 ▸ PE̍H-ŌE-JĪ PHOK-BU̍T-KOÁN
 email: taibunkesimi+pehoejikiek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  白話字記憶 ▸ PE̍H-ŌE-JĪ KÌ-EK
-logo: "/assets/images/logo.jpg"
+  白話字博物館 ▸ PE̍H-ŌE-JĪ PHOK-BU̍T-KOÁN
+logo: "/assets/images/logo.png"
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
@@ -31,9 +31,9 @@ kramdown:
     ndash: --
 
 author:
-  name: "白話字記憶"
-  avatar: "/assets/images/logo.jpg"
-  bio: "PE̍H-ŌE-JĪ KÌ-EK"
+  name: "白話字博物館"
+  avatar: "/assets/images/logo.png"
+  bio: "PE̍H-ŌE-JĪ PHOK-BU̍T-KOÁN"
   links:
     - label: "經營單位：台文雞絲麵"
       icon: "fas fa-fw fa-link"
@@ -72,7 +72,7 @@ defaults:
       author_profile: true
       toc_sticky: true
 
-og_image: /assets/images/logo.jpg
+og_image: /assets/images/logo.png
 
 category_archive:
   type: liquid
