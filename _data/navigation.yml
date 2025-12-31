@@ -3,8 +3,10 @@ main:
     url: /siaukai/
   - title: "告白"
     url: /kopeh/
-  - title: "讀文獻"
-    url: /bunhian/
+  - title: "台灣教會公報"
+    url: /KHKP/
+  - title: "Chhōe文獻"
+    url: /chhoe-bunhian/
   - title: "年kō"
     url: /niko/
   - title: "文類"

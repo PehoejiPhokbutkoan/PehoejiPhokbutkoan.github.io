@@ -12,7 +12,9 @@ header:
 excerpt: >
   來讀白話字文獻，認bat台語siōng寶貴ê歷史資料！<br />
   <br />
-  <small>本網站iáu teh規劃、起造，暫時無文獻資料。</small>
+  <small>網站暫時iáu無電子文字資料thang chhōe文獻全文。</small>
+  <br />
+  <small>請先看「台灣教會公報」內底掃描電子冊。</small>
 # feature_row:
 #   - image_path: /assets/images/mm-home-feature-1.jpg
 #     title: "白話字文獻"
